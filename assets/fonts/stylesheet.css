@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Medium.eot');
+    src: url('Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Medium.woff2') format('woff2'),
+        url('Roboto-Medium.woff') format('woff'),
+        url('Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Coral waves';
+    src: url('Coralwaves-Regular.eot');
+    src: url('Coralwaves-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Coralwaves-Regular.woff2') format('woff2'),
+        url('Coralwaves-Regular.woff') format('woff'),
+        url('Coralwaves-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
